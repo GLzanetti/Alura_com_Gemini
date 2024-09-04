@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+    background-color: #dddddd;
+}
+
+header h1{
+    text-align: center;
+    font: normal bolder 2em Arial;
+}
+
+nav {
+    display: flex; /* Transforma o elemento em um container flex */
+    justify-content: space-between; /* Distribui os itens igualmente no eixo principal */
+    align-items: center; /* Alinha os itens verticalmente no centro */
+  }
+  
+nav a {
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+main{
+    margin: auto;
+    width: 300px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .descricao {
+    margin-top: 20px;
+  }
