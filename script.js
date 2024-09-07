@@ -13,7 +13,7 @@ function pesquisar(){
             titulo = dado.titulo.toLowerCase()
             descricao = dado.descricao.toLowerCase()
             if(campoPesquisa == ""){
-                resultado.innerHTML = "Nada foi encontrado. Tente outra linguagem."
+                alert("Nada foi encontrado. Tente outra linguagem.")
                 return
             } else if(titulo.includes(campoPesquisa) || descricao.includes(campoPesquisa)){
                 section +=`
