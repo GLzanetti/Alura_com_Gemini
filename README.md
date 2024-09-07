@@ -18,7 +18,7 @@ Digite o nome da linguagem que você deseja pesquisar e descubra informações c
 ### Como usar
 1. **Clone este repositório:** Use o comando `git clone https://[seu-repositório]`
 2. **Abra o arquivo index.html:** Abra o arquivo `index.html` em seu navegador.
-3. **Ou clique no link:** `https://alura-com-gemini.vercel.app/`
+3. **Ou clique no link:** https://alura-com-gemini.vercel.app/
 
 ### Contribuições
 Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum bug, tiver alguma sugestão ou quiser adicionar novas funcionalidades, abra um pull request.
