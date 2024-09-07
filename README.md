@@ -1,4 +1,4 @@
-## Buscador de Linguagens de Programação 
+## Buscador de Linguagens de Programação - Imersão Dev com Gemini
 
 **Uma ferramenta simples para descobrir mais sobre suas linguagens de programação favoritas.**
 
