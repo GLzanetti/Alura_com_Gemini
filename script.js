@@ -1,5 +1,3 @@
-console.log(dados);
-
 let resultado = document.getElementById('resultados-pesquisa')
 
 
